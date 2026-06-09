@@ -1,6 +1,6 @@
 # Hi there, I'm Sriranjani P! 👋
 
-I am a first-year B.Sc. Biotechnology (Honors) student at Chanakya University, deeply passionate about computational biology, molecular oncology, and bioinformatics.
+I am a first-year B.Sc. Biotechnology (Honors) student at Chanakya University, deeply passionate about computational biology, molecular oncology, and biochemistry.
 
 ### Research & Academic Interests
 - **Dry Lab:** Computational Drug Discovery, Genomic Data Science, Machine Learning in Healthcare
