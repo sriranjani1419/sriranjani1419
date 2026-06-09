@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sriranjani P! 👋
 
-<!--
-**sriranjani1419/sriranjani1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year B.Sc. Biotechnology (Honors) student at Chanakya University, deeply passionate about computational biology, molecular oncology, and bioinformatics.
 
-Here are some ideas to get you started:
+### Research & Academic Interests
+- **Dry Lab:** Computational Drug Discovery, Genomic Data Science, Machine Learning in Healthcare
+- **Wet Lab:** Cancer Biology, Molecular & Cell Biology, Chemical Biology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Toolkit
+- **Languages & Databases:** Python, SQL, Linux Shell
+- **Tools & Environments:** Git, GitHub, PyMOL, CB-Dock
+
+### Current Focus & Milestones
+- Completing the IBM Data Science & Python tracks.
+- Formulating molecular docking simulations and computational drug repurposing targets.
+- Open to undergraduate research assistantships and summer fellowship opportunities.
+
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/sriranjani-p-62486038a/?skipRedirect=true)
