@@ -1,4 +1,4 @@
-# Hi there, I'm Sriranjani P! 👋
+# Hi there, I'm SRIRANJANI P! 👋
 
 I am a first-year B.Sc. Biotechnology (Honors) student at Chanakya University, deeply passionate about computational biology, molecular oncology, and biochemistry.
 
